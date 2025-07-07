@@ -1,12 +1,12 @@
 #!/usr/bin/env -S uv run --script
 
 # /// script
-# requires-python = "~=3.12"
+# requires-python = "~=3.12.11"
 # dependencies = [
-#     "sqlglot[rs]==26.33",
-#     "numpy<=2.2",
+#     "sqlglot[rs]~=26.33.0",
+#     "numpy~=2.2.6",
 #     "pandas~=2.2.3",
-#     "tqdm==4.67",
+#     "tqdm~=4.67.1",
 # ]
 # ///
 
